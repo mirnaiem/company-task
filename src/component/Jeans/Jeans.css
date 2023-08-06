@@ -1,0 +1,132 @@
+.jeans-features-title {
+ color: #003B60;
+ font-family: Li Niladri Rongtuli Unicode;
+ font-size: 38px;
+ margin: 40px 200px 20px 300px;
+}
+
+.jeans-features-columns {
+ display: flex;
+ gap: 30px;
+ justify-content: center;
+}
+
+.features-point {
+ display: flex;
+ align-items: center;
+ gap: 5px;
+ margin-bottom: 15px;
+}
+
+.features-point p {
+ color: #003B60;
+ font-family: Li Ador Noirrit;
+ font-size: 20px;
+}
+
+.bunch-jeans-img {
+ margin: 0 auto;
+ display: inline-flex;
+ justify-content: center;
+}
+
+.bunch-jeans {
+ width: 90%;
+ border-radius: 100px 0;
+ margin-top: -120px;
+
+}
+
+.btns-on-jeans-img {
+ margin-top: -70px;
+}
+
+.ellipse {
+ position: relative;
+ bottom: 400px;
+ left: 600px;
+}
+
+.play-btn {
+ position: relative;
+ bottom: 418px;
+ left: 487px;
+}
+
+.some-instructions {
+ text-align: center;
+ color: #003B60;
+}
+
+.some-instructions h2 {
+ font-size: 30px;
+ margin-bottom: 20px;
+}
+
+.some-instructions p {
+ border: 1px solid;
+ margin-bottom: 20px;
+ padding: 10px;
+ width: fit-content;
+}
+
+.instructions-points {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.jeans-peice {
+ text-align: center;
+ position: relative;
+}
+
+.jeans-peice h2 {
+ position: relative;
+ bottom: 350px;
+ color: #FFF;
+ text-align: center;
+ font-size: 45px;
+}
+
+.jeans-peice h4 {
+ position: relative;
+ bottom: 335px;
+ color: #FFF;
+ text-align: center;
+ font-size: 25px;
+}
+
+.jeans-peice-img {
+ align-items: center;
+ text-align: center;
+ width: 700px;
+}
+
+.btn-secondary-div {
+ display: inline-flex;
+ 
+ bottom: 300px;
+
+}
+
+.btn-secondary {
+ background-color: #F0E615;
+ border: none;
+ border-radius: 50px 0;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 8px;
+ padding: 20px 40px;
+ position: absolute;
+ top: 20px;
+ 
+}
+
+.btn-secondary p {
+ color: #092E67;
+ font-family: Li Niladri Rongtuli Unicode;
+ font-size: 25px;
+}
